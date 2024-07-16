@@ -1,0 +1,44 @@
+C:\Users\ChenHua\AppData\Local\Temporary Projects\Chatting\bin\Debug\Chatting.exe
+C:\Users\ChenHua\AppData\Local\Temporary Projects\Chatting\bin\Debug\Chatting.pdb
+C:\Users\ChenHua\AppData\Local\Temporary Projects\Chatting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ChenHua\AppData\Local\Temporary Projects\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+C:\Users\ChenHua\AppData\Local\Temporary Projects\Chatting\obj\Debug\Chatting.csproj.GenerateResource.Cache
+C:\Users\ChenHua\AppData\Local\Temporary Projects\Chatting\obj\Debug\Chatting.exe
+C:\Users\ChenHua\AppData\Local\Temporary Projects\Chatting\obj\Debug\Chatting.pdb
+C:\Users\ChenHua\AppData\Local\Temporary Projects\Chatting\obj\Debug\Chatting.formMain.resources
+Q:\Chatting\Chatting\Chatting\obj\Debug\Chatting.exe
+Q:\Chatting\Chatting\Chatting\obj\Debug\Chatting.pdb
+Q:\Chatting\Chatting\Chatting\bin\Debug\Chatting.exe
+Q:\Chatting\Chatting\Chatting\bin\Debug\Chatting.pdb
+Q:\Chatting\Chatting\Chatting\obj\Debug\ResolveAssemblyReference.cache
+Q:\Chatting\Chatting\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+Q:\Chatting\Chatting\Chatting\obj\Debug\Chatting.MainForm.resources
+Q:\Chatting\Chatting\Chatting\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Q:\Chatting\Chatting\Chatting\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Chen Hua\Desktop\Chatting\Chatting\obj\Debug\Chatting.exe
+C:\Users\Chen Hua\Desktop\Chatting\Chatting\obj\Debug\Chatting.pdb
+C:\Users\hitachi\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.exe
+C:\Users\hitachi\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.pdb
+C:\Users\hitachi\Desktop\Chatting 2010-5-3\Chatting\bin\Debug\Chatting.exe
+C:\Users\hitachi\Desktop\Chatting 2010-5-3\Chatting\bin\Debug\Chatting.pdb
+C:\Users\hitachi\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.MainForm.resources
+C:\Users\hitachi\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+C:\Users\hitachi\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\bin\Debug\Chatting.exe
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\bin\Debug\Chatting.pdb
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.MainForm.resources
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.exe
+C:\Users\Administrator\Desktop\Chatting 2010-5-3\Chatting\obj\Debug\Chatting.pdb
+F:\2024SVN\临时文件\demo\Chatting\Chatting\bin\Debug\Chatting.exe
+F:\2024SVN\临时文件\demo\Chatting\Chatting\bin\Debug\Chatting.pdb
+F:\2024SVN\临时文件\demo\Chatting\Chatting\obj\Debug\Chatting.csproj.AssemblyReference.cache
+F:\2024SVN\临时文件\demo\Chatting\Chatting\obj\Debug\Chatting.MainForm.resources
+F:\2024SVN\临时文件\demo\Chatting\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+F:\2024SVN\临时文件\demo\Chatting\Chatting\obj\Debug\Chatting.csproj.GenerateResource.cache
+F:\2024SVN\临时文件\demo\Chatting\Chatting\obj\Debug\Chatting.csproj.CoreCompileInputs.cache
+F:\2024SVN\临时文件\demo\Chatting\Chatting\obj\Debug\Chatting.exe
+F:\2024SVN\临时文件\demo\Chatting\Chatting\obj\Debug\Chatting.pdb
